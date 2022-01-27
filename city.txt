@@ -1,2 +1,7 @@
 bonjour c'est issa
+<<<<<<< HEAD
 yep le max 
+=======
+ne touche pas
+Ajout du Prof
+>>>>>>> d6dd9adc6a7642593f3a37c62aea166c3f1a96cc
