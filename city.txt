@@ -1,6 +1,10 @@
 bonjour c'est issa
 <<<<<<< HEAD
+<<<<<<< HEAD
 entrer un texte ici 
+=======
+yep le max 
+>>>>>>> 6a0b829e9a9e963c334cccea3c33a8f4e65e4322
 =======
 ne touche pas
 Ajout du Prof
